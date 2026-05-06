@@ -15,9 +15,8 @@ th {
 .navig a:hover{
   color: #272ad6;
 }
-.navig {
-  text-decoration: n;
-}
+
+
 .titolo{
   font:  17rem;
   font-weight: bold;
@@ -25,7 +24,7 @@ th {
   color: burlywood;
 }
 
-a:link, a:visited{
+.navig, a:link, a:visited{
   color: #3f0000;
 }
 
@@ -52,7 +51,7 @@ font-family: sans-serif;
 }
 
 .list :nth-child(odd){
-background-color:rgb(255, 251, 251);
+background-color:whitesmoke;
 }
 
 .backdoor{
@@ -67,4 +66,16 @@ background-color:rgb(255, 251, 251);
   border-radius: auto;
   background-color:burlywood;
   color: #3f0000;
+}
+
+
+#contatti { 
+background-color: rgb(255, 251, 251);
+}
+#esperienze{
+  background-color: rgb(255, 251, 251);
+}
+
+.colore{
+  background-color: rgb(255, 251, 251);
 }
