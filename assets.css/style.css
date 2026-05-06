@@ -26,7 +26,7 @@ th {
   color: burlywood;
 }
 
-.navig, a:link, a:visited{
+nav, a:link, a:visited{
   color: #3f0000;
 }
 
@@ -37,7 +37,20 @@ th {
 .underhead{
     color: blue;
 }
+h2{
+  font-size: 1.8rem;
+  text-align: left;
+  line-height: 2.4;
+  color: burlywood;
+}
 
+
+h3 {
+	font-size: 1.2rem;
+	color: hsl(222, 13%, 15%);
+	text-align: left;
+	line-height: 2.2;
+}
 .headtext {
   background-image:url(/U1W1D3/assets.css/header-bg.jpg);
   background-size:cover;
