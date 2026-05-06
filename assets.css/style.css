@@ -60,10 +60,13 @@ background-color:whitesmoke;
 .bottom{
   background-color: burlywood;
   color: rgb(0, 0, 0);
+  font-weight: bold;
+  width: 30%;
 }
 
 .chiusura{
   border-radius: auto;
+  text-align: center;
   background-color:burlywood;
   color: #3f0000;
 }
