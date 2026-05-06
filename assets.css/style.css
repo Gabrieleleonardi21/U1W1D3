@@ -1,0 +1,52 @@
+table {
+  border-collapse: collapse;
+  width: 50%;
+}
+
+th, td {
+  border: 1px solid #050505;
+  padding: 2%;
+  text-align: left;
+}
+
+th {
+  background-color: #1c1b1b00;
+}
+
+#navigatore a:hover {
+    color: aquamarine;
+
+}
+
+#navigatore{
+    color: green;
+    
+}
+
+.headtext{
+    text-align: center;
+    color:red;
+}
+.underhead{
+    color: blue;
+}
+
+.container{
+  background-image:url(/U1W1D3/assets.css/header-bg.jpg);
+  background-size:75vw;
+  background-position: center;
+  background-attachment: fixed;
+
+}
+html{
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,100..900&family=Prata&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+font-family: sans-serif;
+}
+
+.list :nth-child(odd){
+background-color:rgb(255, 251, 251);
+}
+
+.backdoor{
+  background-color: rgb(248, 239, 227);
+}
