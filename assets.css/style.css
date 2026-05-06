@@ -12,30 +12,38 @@ th, td {
 th {
   background-color: #1c1b1b00;
 }
-
-#navigatore a:hover {
-    color: aquamarine;
-
+.navig a:hover{
+  color: #272ad6;
+}
+.navig {
+  text-decoration: n;
+}
+.titolo{
+  font:  17rem;
+  font-weight: bold;
+  font-style: italic;
+  color: burlywood;
 }
 
-#navigatore{
-    color: green;
-    
+a:link, a:visited{
+  color: #3f0000;
 }
 
 .headtext{
     text-align: center;
-    color:red;
+    
 }
 .underhead{
     color: blue;
 }
 
-.container{
+.headtext {
   background-image:url(/U1W1D3/assets.css/header-bg.jpg);
-  background-size:75vw;
+  background-size:cover;
   background-position: center;
-  background-attachment: fixed;
+  
+  background-color: #050505
+  
 
 }
 html{
@@ -49,4 +57,14 @@ background-color:rgb(255, 251, 251);
 
 .backdoor{
   background-color: rgb(248, 239, 227);
+}
+.bottom{
+  background-color: burlywood;
+  color: rgb(0, 0, 0);
+}
+
+.chiusura{
+  border-radius: auto;
+  background-color:burlywood;
+  color: #3f0000;
 }
