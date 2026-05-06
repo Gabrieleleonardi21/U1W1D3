@@ -54,6 +54,10 @@ font-family: sans-serif;
 background-color:whitesmoke;
 }
 
+.list :nth-child(even){
+background-color:rgb(178, 176, 176);
+}
+
 .backdoor{
   background-color: rgb(248, 239, 227);
 }
