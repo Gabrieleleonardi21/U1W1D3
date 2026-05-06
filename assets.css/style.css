@@ -26,7 +26,7 @@ th {
   color: burlywood;
 }
 
-nav, a:link, a:visited{
+.navig, a:link, a:visited{
   color: #3f0000;
 }
 
@@ -98,7 +98,7 @@ input,
 textarea,
 select{
   font-family: Helvetica, Arial, sans-serif;
-  font-width:60% ;
+  width:20em ;
   font-size: 1.2rem;
   background-color:whitesmoke;
 }
