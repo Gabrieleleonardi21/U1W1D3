@@ -80,14 +80,18 @@ label{
   font-weight: bold;
 }
 
-input, textarea{
-  font-family: Arial, Helvetica, sans-serif;
+input, 
+textarea,
+select{
+  font-family: Helvetica, Arial, sans-serif;
   font-width:60% ;
-  font-size: 60%;
+  font-size: 1.2rem;
   background-color:whitesmoke;
 }
  
-
+#consenso{
+  width:auto ;
+}
 input:focus, textarea:focus {
 background-color: burlywood;
 }
