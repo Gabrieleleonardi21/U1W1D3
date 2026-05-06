@@ -67,10 +67,26 @@ background-color:whitesmoke;
 .chiusura{
   border-radius: auto;
   text-align: center;
+  font-size: 0.9rem;
   background-color:burlywood;
   color: #3f0000;
 }
+label{
+  color: rgb(104, 12, 12) ;
+  font-weight: bold;
+}
 
+input, textarea{
+  font-family: Arial, Helvetica, sans-serif;
+  font-width:60% ;
+  font-size: 60%;
+  background-color:whitesmoke;
+}
+ 
+
+input:focus, textarea:focus {
+background-color: burlywood;
+}
 
 #contatti { 
 background-color: rgb(255, 251, 251);
